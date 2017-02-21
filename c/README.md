@@ -1,0 +1,1 @@
+## C) Create a "blog reading app", where you have a list of blog posts on the side and when you click on a post title, it opens that post in another view. Hint: which blog post is selected is "application state".
