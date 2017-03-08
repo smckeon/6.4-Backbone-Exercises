@@ -8,7 +8,7 @@ var BlogPost = Backbone.Model.extend({
 
 var BlogCollection = Backbone.Collection.extend({
   model: BlogPost,
-  url: 'https://tiny-lasagna-server.herokuapp.com/collections/smckeonblog',
+  url: 'https://tiny-lasagna-server.herokuapp.com/collections/smckeonblog'
 });
 
 module.exports = {
